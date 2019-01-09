@@ -1,5 +1,5 @@
 # WebBasedRegistrationSys
-Web based registration system for colleges
+
 This system implements the functions needed in order to run an online
 
 school-registration with the use of a back end database, and Hypertext Markup 
